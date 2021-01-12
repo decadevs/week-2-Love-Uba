@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTaskApp</string>
+
+    <!-- TODO: Changed some string resources to placeholder variables for easy text management-->
+
+    <string name="update_activity"> %1$d</string>
+    <string name="update_orientation"> %$1d </string>
+    <string name="implementation_one"> Implementation 1 </string>
+    <string name="implementation_two"> Implementation 2 </string>
+    <string name="counter_frag"> %$1d </string>
+
+
+</resources>
